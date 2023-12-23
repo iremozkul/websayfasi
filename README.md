@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# websayfasi
 
 İçerisinde bir adet README dosyası, bir adet de index.html dosyası barındırıyor.
 
